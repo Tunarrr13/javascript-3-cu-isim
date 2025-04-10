@@ -7,4 +7,3 @@ console.log(typeof stringg)
 console.log(typeof num1)
 console.log(typeof boolean)
 console.log(typeof string)
-
